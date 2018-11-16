@@ -29,9 +29,9 @@
 |   |                                                                             | R = Responsible, A = Accountable, C = Consulted, I = Informed |              |              |        |       |         |
 |   |                                                                             |                                                               |              |              |        |       |         |
 |   |                                                                             |                                                               |              |              |        |       |         |
-|   |                                                                             | Week ( Rotation of Scrum Master)                              |              | Scrum Master |        |       |         |
-|   | Responsible – Who is completing the task                                    |                                                               | 3            | Jean T       |        |       |         |
-|   | Accountable – Who is making decisions and taking actions on the task(s)     |                                                               | 4            |              |        |       |         |
-|   | Consulted – Who will be communicated with regarding decisions and tasks.    |                                                               | 5            |              |        |       |         |
-|   | Informed – Who will be updated on decisions and actions during the project. |                                                               | 6            |              |        |       |         |
+|   |                                                                             |                               | Week ( Rotation of Scrum Master)             | Scrum Master |        |       |         |
+|   |                                    |                                                               | 3            | Jean T       |        |       |         |
+|   |      |                                                               | 4            |              |        |       |         |
+|   |     |                                                               | 5            |              |        |       |         |
+|   |  |                                                               | 6            |              |        |       |         |
 |   |                                                                             |                                                               | 7            |              |        |       |         |
