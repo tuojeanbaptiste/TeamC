@@ -3,13 +3,14 @@
 	<head>
 		<title>Wilmington University</title>
 		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/css/simplemain.css">
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	        ![](https://github.com/tuojeanbaptiste/TeamC/tree/master/images/wilmu-logo.svg)
 	</head>
 	<body>
 		<nav>
     		<ul>
-        <li><a href="https://www.wilmu.edu/portals/index.aspx">myWilmU</a></li>
-        <li><a href="https://www.wilmu.edu/library/index.aspx">Library</a></li>
+        <li><a href="https://www.wilmu.edu/portals/index.aspx" data-target="#projects"><span>Projects</span></a></li>
+        <li><a href="https://www.wilmu.edu/library/in.aspx" data-target="#library"><span>Library</span></a></li>
         <li><a href="https://www.wilmu.edu/staff.aspx">Faculty &amp; Staff</a></li>
         <li><a href="https://www.wilmu.edu/safety/index.aspx">Safety</a></li>
         <li><a href="https://www.wilmu.edu/contact.aspx">Contact Us</a></li>
