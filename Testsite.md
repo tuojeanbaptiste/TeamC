@@ -3,7 +3,7 @@
 	<head>
 		<title>Wilmington University</title>
 		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
+		<link rel="stylesheet" type="text/css" href="/css/simplemain.css">
 	</head>
 	<body>
 		<nav>
