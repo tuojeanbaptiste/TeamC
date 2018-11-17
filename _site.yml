@@ -1,6 +1,6 @@
-name: "my-website"
+name: "Wilmington University"
 navbar:
-  title: "My Website"
+  title: "Wilmington University"
   left:
     - text: "Home"
       href: index.html
