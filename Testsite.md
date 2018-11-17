@@ -3,8 +3,8 @@
 	<head>
 		<title>Wilmington University</title>
 		<!-- link to main stylesheet -->
-	-	<link rel="stylesheet" type="text/css" href="/css/main.css">
-	    -    ![](https://github.com/tuojeanbaptiste/TeamC/tree/master/images/wilmu-logo.svg)
+		<link rel="stylesheet" type="text/css" href="/css/sytles.css">
+	        ![](https://github.com/tuojeanbaptiste/TeamC/tree/master/images/wilmu-logo.svg)
 	</head>
 	<body>
 		<nav>
