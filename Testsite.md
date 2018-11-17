@@ -4,7 +4,7 @@
 		<title>Wilmington University</title>
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/sytles.css">
-	        ![](https://github.com/tuojeanbaptiste/TeamC/tree/master/images/wilmu-logo.svg)
+	        ![](https://github.com/tuojeanbaptiste/TeamC/tree/master/images/wilmu-logo.png)
 	</head>
 	<body>
 		<nav>
