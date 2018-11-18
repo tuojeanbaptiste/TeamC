@@ -11,7 +11,7 @@
 
 
 
-<title>Introduction</title>
+<title>Wilmington University</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -171,12 +171,11 @@ $(document).ready(function () {
 
 
 
-<!DOCTYPE html>
- <div class="navbar navbar-default navbar-fixed-top" role="navigation" style="border:1px solid black">
-   <div id="navbar" class="navbar-collapse collapse">
+ <div class="navbar navbar-default navbar-fixed-top" role="navigation" style="border:1px">
+   <div id="rStudioHeader" class="alwaysShrunk">
       <ul class="nav navbar-nav">
-        <li><a href="lesson-1.html">myWilmU</a></li>
-        <li><a href="Library.html">Library</a></li>
+        <li><a href="login.html">myWilmU</a></li>
+        <li><a href="lesson-1.html">Library</a></li>
         <li><a href="Staff.html">Faculty & Staff</a></li>
         <li><a href="Safety.html">Safety</a></li>
         <li><a href="Contact.html">Contact Us</a></li>
@@ -192,7 +191,10 @@ $(document).ready(function () {
       </div>
     </div><!--/.nav-collapse -->
  </div>
- <div class="navbar navbar-default" background-color:"white" style="border:thin solid black">
+ <div id="rStudioHeader" class="alwaysShrunk">
+  <div class="innards bandContent">
+ 
+ <div class="navbar navbar-default" style="border:thin solid black">
   <div class="navbar-header">
     <center>
          <img src="images/wilmu-logo.png" height="100" width="100">
@@ -210,21 +212,22 @@ $(document).ready(function () {
     </ul>
    </div><!--/.nav-collapse -->
 </div>
-<!--
 <div id="rStudioHeader" class="alwaysShrunk">
   <div class="innards bandContent">
-    <div id="menu">
-      <div id="menuToggler"></div>
+   <div id="menu">
+     <div id="menuToggler"></div>
       <div id="menuItems">
+<!--        
         <a class="menuItem" href="lesson-1.html">Get Started</a>
         <a class="menuItem" href="gallery.html">Gallery</a>
         <a class="menuItem" href="formats.html">Formats</a>
         <a class="menuItem" href="articles.html">Articles</a>
+-->     
       </div>
     </div>
-  </div>
+ </div>
 </div>
--->
+
 <style type="text/css">
 #TOC {
   margin-left: 35px;
@@ -232,22 +235,36 @@ $(document).ready(function () {
 }
 </style>
 
+<!-- If you remove this comments, then the page content shifts complete left
 <script type="text/javascript">
 $(".main-container").removeClass("main-container").removeClass("container-fluid").addClass("footerPushDown");
 </script>
+-->
 
 <div id="pageContent" class="standardPadding">
 <div class="articleBandContent">
+<div class="lessonPage">
+  <div class="lessonsNav">
+    <a id="nav-lesson-1" href="lesson-1.html">Left 1</a>
+    <a id="nav-lesson-2" href="lesson-2.html">Left 2</a>
+   </div>
+  <div class="lessonContent">
 
 <div class="fluid-row" id="header">
 
 
 
-<h1 class="title toc-ignore">Introduction</h1>
+<h1 class="title toc-ignore">Wilmington University</h1>
 
 </div>
 
 
+<script type="text/javascript">
+$("#rStudioHeader").removeClass("alwaysShrunk");
+$("#pageContent").removeClass("standardPadding");
+</script>
+<div id="overview" class="section level3">
+<h3>Overview</h3>
 <p>At Wilmington University, students have the opportunity to pursue a career and become a leader. It’s not just about meeting your potential, it’s about exceeding it.</p>
 <p>Wilmington University is a private, non-sectarian university which offers both undergraduate and graduate degree programs in a wide range of career areas. The University began with a charter class of 194 students in 1968 and now enrolls a diverse student body numbering more than 18,000 annually.</p>
 <p>The program of day, evening, and weekend classes serves traditional high school graduates as well as non-traditional adult students in need of flexible scheduling. Classes are primarily offered in 15-week, 7-week, and weekend modular formats. Introduced in 2005, Fusion programs combine online and face-to-face learning. These programs are designed for students who wish to complete their degree in less time than is possible with traditional courses.</p>
@@ -256,7 +273,23 @@ $(".main-container").removeClass("main-container").removeClass("container-fluid"
 <p>Wilmington University generally serves commuter students and does not provide student housing facilities. However, the University welcomes all qualified students and assists those needing living accommodations by providing a listing of nearby rental opportunities. Click here for more consumer information.</p>
 <p>Data compiled by the Office of Institutional Research</p>
 <p>Wilmington University is a 501(c)(3) organization.</p>
+</div>
 
+</div> <!-- lessonContent -->
+</div> <!-- lessonPage -->
+
+<script type="text/javascript">
+  var lesson = window.location.href.match(/lesson-[0-9]+/g);
+  if (lesson !== null) {
+    lesson = 'nav-' + lesson[0];
+    $('#'+lesson).addClass('current');
+  }
+
+  $('#show-answer').on("click", function() {
+    $('#show-answer').addClass('showing');
+    $('#model-answer').addClass('showing');
+  })
+</script>
 </div> <!-- articleBandContent -->
 </div> <!-- pageContent -->
 

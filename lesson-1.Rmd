@@ -1,7 +1,19 @@
 ---
-title: "Introduction"
-output: html_document
+title: "Wilmington University"
+output:
+  html_document:
+    toc_float: false
+    includes:
+      before_body: [include_header.html, include_lessons_nav.html]
+      after_body: [include_lessons_nav_end.html, include_footer.html]
 ---
+
+```{js, echo=FALSE}
+$("#rStudioHeader").removeClass("alwaysShrunk");
+$("#pageContent").removeClass("standardPadding");
+```
+
+### Overview
 
 At Wilmington University, students have the opportunity to pursue a career and become a leader. It's not just about meeting your potential, it's about exceeding it.
 

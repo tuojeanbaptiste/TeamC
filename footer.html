@@ -171,12 +171,11 @@ $(document).ready(function () {
 
 
 
-<!DOCTYPE html>
- <div class="navbar navbar-default navbar-fixed-top" role="navigation" style="border:1px solid black">
-   <div id="navbar" class="navbar-collapse collapse">
+ <div class="navbar navbar-default navbar-fixed-top" role="navigation" style="border:1px">
+   <div id="rStudioHeader" class="alwaysShrunk">
       <ul class="nav navbar-nav">
-        <li><a href="lesson-1.html">myWilmU</a></li>
-        <li><a href="Library.html">Library</a></li>
+        <li><a href="login.html">myWilmU</a></li>
+        <li><a href="lesson-1.html">Library</a></li>
         <li><a href="Staff.html">Faculty & Staff</a></li>
         <li><a href="Safety.html">Safety</a></li>
         <li><a href="Contact.html">Contact Us</a></li>
@@ -192,7 +191,10 @@ $(document).ready(function () {
       </div>
     </div><!--/.nav-collapse -->
  </div>
- <div class="navbar navbar-default" background-color:"white" style="border:thin solid black">
+ <div id="rStudioHeader" class="alwaysShrunk">
+  <div class="innards bandContent">
+ 
+ <div class="navbar navbar-default" style="border:thin solid black">
   <div class="navbar-header">
     <center>
          <img src="images/wilmu-logo.png" height="100" width="100">
@@ -210,21 +212,22 @@ $(document).ready(function () {
     </ul>
    </div><!--/.nav-collapse -->
 </div>
-<!--
 <div id="rStudioHeader" class="alwaysShrunk">
   <div class="innards bandContent">
-    <div id="menu">
-      <div id="menuToggler"></div>
+   <div id="menu">
+     <div id="menuToggler"></div>
       <div id="menuItems">
+<!--        
         <a class="menuItem" href="lesson-1.html">Get Started</a>
         <a class="menuItem" href="gallery.html">Gallery</a>
         <a class="menuItem" href="formats.html">Formats</a>
         <a class="menuItem" href="articles.html">Articles</a>
+-->     
       </div>
     </div>
-  </div>
+ </div>
 </div>
--->
+
 <style type="text/css">
 #TOC {
   margin-left: 35px;
@@ -232,9 +235,11 @@ $(document).ready(function () {
 }
 </style>
 
+<!-- If you remove this comments, then the page content shifts complete left
 <script type="text/javascript">
 $(".main-container").removeClass("main-container").removeClass("container-fluid").addClass("footerPushDown");
 </script>
+-->
 
 <div id="pageContent" class="standardPadding">
 <div class="articleBandContent">
