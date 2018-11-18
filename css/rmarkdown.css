@@ -128,7 +128,7 @@ p {
   font-size: 40px;
   color: inherit;
 
-  white-space: nowrap;
+  white-space: pre-wrap;
 
   -webkit-transition-property: font-size;
   -moz-transition-property: font-size;
@@ -162,7 +162,7 @@ p {
   display: inline-block;
   width: 70px;
   height: 25px;
-  background-image:url(../images/logoRStudio.png);
+  background-image:url(../images/wilmu-logo.png);
   background-size: 100% auto;
   background-repeat: no-repeat;
   vertical-align: middle;
@@ -198,7 +198,7 @@ p {
   display: inline-block;
   padding: 0px 15px;
 
-  opacity: .18;
+  opacity: .8;
   cursor: pointer;
 
   -webkit-transition-property: opacity;
@@ -225,7 +225,7 @@ p {
   padding: 0px;
   margin: 0px 0px 0px 10px;
 
-  background-image: url(../images/gitHubLogo.svg);
+  background-image: url(../images/wilmu-logo.png);
   background-repeat: no-repeat;
   background-size: 20px auto;
   background-position: center center;
