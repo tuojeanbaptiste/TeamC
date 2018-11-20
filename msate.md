@@ -1,5 +1,5 @@
 
-# The offered courses  for Masters in Applied Science are:
+# The offered courses for Masters in Applied Technology in Education are:
 
 Course | Name of Professor |Cost | Description
 ---    | ---               | --- | ---
