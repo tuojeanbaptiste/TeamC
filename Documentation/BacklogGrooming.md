@@ -30,11 +30,8 @@
 |25 |Student - Payment [Size: XL]|
 |26	|Student-Pay in Installment [Size: L]|
 |27	|Student-Add Comment [Size: XL]|
-|19	|Messaging|
-|9	|Administrator-View Student Basic Information [Size: XL]|
-|15	|Student - should be view registered classes [ Size : L]|
-|18	|Administrator - Should be able to register an existing student [ Size : M]|
-|19	|Administrator/Professor - View Registered Students [ Size : M]|
-|25	|As a student, I should be able to search student by Last Name [ Size : XL]|
-|26	|Search by Student First Name|
+|28	|Messaging|
+|29 |Administrator/Professor - View Registered Students [ Size : M]|
+|30 |As a student, I should be able to search student by Last Name [ Size : XL]|
+|31	|Search by Student First Name|
 
