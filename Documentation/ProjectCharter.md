@@ -180,7 +180,7 @@ There are no major external dependencies but still the project completion will d
 | Date | Milestone | Deliverables |
 | --- | --- | --- |
 | 11/15/2018 | Planning | Project Charter, RACI, Creating Product Backlog / User Stories; Assign Points to User Stories. |
-| 11/22/2018 | TBD |   |
-| 11/29/2018 | TBD |   |
-| 12/06/2018 | TBD |   |
-| 12/13/2018 | TBD |   |
+| 11/22/2018 | TBD |Allow students to register courses any time from any where   |
+| 11/29/2018 | TBD |Student can login from anytime / anywhere   |
+| 12/06/2018 | TBD | Student can view their registered courses anytime / anywhere  |
+
