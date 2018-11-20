@@ -1,6 +1,6 @@
 
 
-# The offered courses  for Masters in Applied Science are:
+# The offered courses for Masters in Applied Family Science are:
 
 Course | Name of Professor |Cost | Description
 ---    | ---               | --- | ---
