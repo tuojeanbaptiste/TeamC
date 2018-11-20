@@ -3,9 +3,9 @@
 | **Sprint**| **Task Name** | **Feature Type** |**Start Date** | **Finish Date** |
 | --- | --- | --- |--- | --- | 
 |1  |	High Level	|Student Registration System	|11/09/18	|11/15/18|
-|1	|Wireframe	|Student Registration System	11/09/18	|11/15/18|
-|1	|Graphics	|Student Registration System	11/09/18|	11/15/18|
-|1	|Add 5 courses.	|Student Registration System	11/09/18	|11/15/18|
+|1	|Wireframe	|Student Registration System	|11/09/18	|11/15/18|
+|1	|Graphics	|Student Registration System	|11/09/18|	11/15/18|
+|1	|Add 5 courses.	|Student Registration System |	11/09/18	|11/15/18|
 |2	|Administrator – View Classes	|Student Registration System	|11/16/18|	11/22/18|
 |2	|Administrator - Edit classes	|Student Registration System	|11/16/18|	11/22/18|
 |2	|Administrator – Add classes	|Student Registration System	|11/16/18|	11/22/18|
