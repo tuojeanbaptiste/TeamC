@@ -2,7 +2,7 @@
 # Product RoadMap
 
 
-| | Sprint 1 |Sprint 2 | Sprint 3 | Sprint 4 |
+| Objective | Sprint 1 |Sprint 2 | Sprint 3 | Sprint 4 |
 | | -------- |-------- | -------- | -------- |
 |Release Name | Course Release | Student Login|
 |Goal/Objective |Allow Student to select courses  | Individualized login provision for  students |
