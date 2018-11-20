@@ -1,5 +1,5 @@
 
-Masters in A
+
 # The offered courses  for Masters in Applied Science are:
 
 Course | Name of Professor |Cost | Description
