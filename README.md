@@ -20,7 +20,7 @@ Additional sites include the Wilson Graduate Center, Dover, Dover Air Force Base
 Wilmington University generally serves commuter students and does not provide student housing facilities. However, the University welcomes all qualified students and assists those needing living accommodations by providing a listing of nearby rental opportunities. Click here for more consumer information.
 
 Data compiled by the Office of Institutional Research
-                                                                      # [Create Account](createaccount.md)
+
 Wilmington University is a 501(c)(3) organization.
 
 Please select the degree program:
