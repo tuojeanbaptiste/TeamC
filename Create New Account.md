@@ -138,34 +138,6 @@ Others <input type="checkbox" name="Hobby_Other" value="Other"> <input type="tex
 
 <td>1</td>
 
-<td>Class X</td>
-
-<td><input type="text" name="ClassX_Board" maxlength="30"></td>
-
-<td><input type="text" name="ClassX_Percentage" maxlength="30"></td>
-
-<td><input type="text" name="ClassX_YrOfPassing" maxlength="30"></td>
-
-</tr>
-
-<tr>
-
-<td>2</td>
-
-<td>Class XII</td>
-
-<td><input type="text" name="ClassXII_Board" maxlength="30"></td>
-
-<td><input type="text" name="ClassXII_Percentage" maxlength="30"></td>
-
-<td><input type="text" name="ClassXII_YrOfPassing" maxlength="30"></td>
-
-</tr>
-
-<tr>
-
-<td>3</td>
-
 <td>Graduation</td>
 
 <td><input type="text" name="Graduation_Board" maxlength="30"></td>
@@ -178,7 +150,7 @@ Others <input type="checkbox" name="Hobby_Other" value="Other"> <input type="tex
 
 <tr>
 
-<td>4</td>
+<td>2</td>
 
 <td>Masters</td>
 
