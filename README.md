@@ -214,13 +214,6 @@ Others <input type="checkbox" name="Hobby_Other" value="Other"> <input type="tex
 
 <tr>
 
-<td>COURSES  
-APPLIED FOR</td>
-
-<td>BCA <input type="radio" name="Course_BCA" value="BCA"> B.Com <input type="radio" name="Course_BCom" value="B.Com"> B.Sc <input type="radio" name="Course_BSc" value="B.Sc"> B.A <input type="radio" name="Course_BA" value="B.A"></td>
-
-</tr>
-
 <tr>
 
 <td colspan="2" align="center"><input type="submit" value="Submit"> <input type="reset" value="Reset"></td>
