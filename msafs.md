@@ -9,6 +9,3 @@
 |AFM 6630 | Dr. Murphy  | $1700 |Family Dynamic
 |AFM 6640 | Dr. Raman | $1700 |Families and Crisis
 |AFM 6650 | Dr. Singh | $1700 |Family Resource Management
-
-
-|- [ ]|Course | Name of Professor |Cost | Description
