@@ -1,5 +1,36 @@
 
-# Project Backlog  Grooming 
+# Project Backlog  Grooming (Week 4)
+
+| No | Issue|
+|----|-----|
+|1	|High Level Architecture [ Size : XL]|
+|2	|Wireframe. [ Size : XL]|
+|3	|Put graphics on the web page size8|
+|4	|add 5 courses.|
+|5 | Student - Available Classes [ Size : XL]
+|6	|Administrator - View Classes [Size: XL]|
+|7	|Administrator - Edit classes [ Size : XL]|
+|8	|Administrator - Add classes [ Size : XL]|
+|9  |Admnistrator - Assign Professor - Against course [ Size : M]|
+|10	|Administrator - Add Cost for Course Based on Location. [ Size : L]|
+|11 |Administrator - Should be able to register an existing student [ Size : M]
+|12	|Student - Create ID & Password [Size: M]|
+|13	|Student - Login [Size: XL]|
+|14	|Search - Course [ Size : L]|
+|14 | Student - Available Classes [ Size : XL]
+|15 | Student - Register Classes [ Size : XL]
+|16 | Instructor - View Register Students [Size: XL]
+|17 | Administrator-View Student Basic Information [Size: XL]
+|18	|Student-Notification for Required Course [ Size : XL]|
+|19	|Student - Forget Password / Change Password [Size: L]|
+|20	|Student - Administrator Contact [Size: M]|
+|21	|Administrator-View Student Basic Information [Size: XL]|
+|22	|Student - should be view registered classes [ Size : L]|
+|23	|Student - Administrator Contact [Size: M]|
+
+
+
+# Project Backlog Grooming (Week 3)
 
 | No | Issue|
 |----|-----|
