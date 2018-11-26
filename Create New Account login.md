@@ -1,4 +1,4 @@
-# Wilmingotn Univeristy
+# Wilmington Univeristy
 
 
 ### Create an Account
