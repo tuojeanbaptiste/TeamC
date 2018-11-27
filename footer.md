@@ -1,7 +1,7 @@
 
 #
 <div class="footer">
-        &copy; 2004 Wilmington University
+        &copy; 2018 Wilmington University
     </div>
 
 	
