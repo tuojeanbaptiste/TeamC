@@ -12,10 +12,10 @@
 ## 
 
 ##### [Profile](msafs.md)
-##### [Cources](msafs.md)
+##### [Courses](msafs.md)
 ##### [Registration](msafs.md)
 ##### [Grade](msafs.md)
-##### [Payement](msafs.md)
+##### [Payment](msafs.md)
 ##### [Help](msafs.md)
 
 
