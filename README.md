@@ -1,7 +1,7 @@
 
 # Wilmington University
 
-![Image](http://www.wilmu.edu/images/logos/wilmu-logo-color-350x92.svg)
+![Image](Images/wilmu-logo.png)
 
 ## Team C Building Wilmington University Web Site as a project work in Markdown Language.
 
