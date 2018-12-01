@@ -9,3 +9,18 @@ MED 7809 | Dr. Stacy | $1600 |Instructional Design
 MED 7404 | Dr. Brain | $1600 |Brain-Based Research Instructional Strategies
 MED 7704 | Dr. Kemp| $1500 | Education for Equity and Social Justice
 MED 7807 | Dr. Phil | $1500 |Creativity and Critical Thinking 
+
+
+
+
+---
+
+# Contact & Visit: 
+Wilmington University, 
+320 N. 
+DuPont Hwy, 
+New Castle, DE 19720 
+
+<div>
+   &copy; 2018 Wilmington University
+</div>
