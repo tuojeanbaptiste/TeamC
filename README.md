@@ -27,3 +27,9 @@ Please select one of the degree program:
 # [MS in Applied Family Science Degree](msafs.md)
 # [Masters in Applied Technology in Education](msate.md)
 # [Masters in Information Systems Technologies (MS-IST)](msist.md)
+
+# Contact & Visit: 
+Wilmington University, 320 N. DuPont Hwy, New Castle, DE 19720 
+<div>
+   &copy; 2018 Wilmington University
+</div>
