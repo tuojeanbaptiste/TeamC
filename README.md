@@ -1,6 +1,6 @@
 
 
-# [Welcome to Wilmington University!](www.Wilmu.edu)
+# <a href="http://wilmu.edu/" target="_blank">Welcome to Wilmington University</a>
 
 ![Image](Images/wilmu-logo.png "Welcome to Wilmington University")
 
