@@ -1,12 +1,11 @@
 
-# Wilmington University
+
+# [Welcome to Wilmington University!](www.Wilmu.edu)
 
 ![Image](Images/wilmu-logo.png "Welcome to Wilmington University")
 
 
 ## Team C Building Wilmington University Web Site as a project work in Markdown Language.
-
-Welcome to Wilmington University!!
 
 At Wilmington University, students have the opportunity to pursue a career and become a leader. It’s not just about meeting your potential, it’s about exceeding it.
 
