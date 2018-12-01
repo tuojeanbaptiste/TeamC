@@ -28,6 +28,8 @@ Please select one of the degree program:
 # [Masters in Applied Technology in Education](msate.md)
 # [Masters in Information Systems Technologies (MS-IST)](msist.md)
 
+---
+
 # Contact & Visit: 
 Wilmington University, 320 N. DuPont Hwy, New Castle, DE 19720 
 <div>
