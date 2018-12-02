@@ -10,8 +10,7 @@ MED 7404 | Dr. Brain | $1600 |Brain-Based Research Instructional Strategies
 MED 7704 | Dr. Kemp| $1500 | Education for Equity and Social Justice
 MED 7807 | Dr. Phil | $1500 |Creativity and Critical Thinking 
 
-
-
+[Home](https://tuojeanbaptiste.github.io/TeamC/)
 
 ---
 
