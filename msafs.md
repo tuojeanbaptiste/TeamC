@@ -1,4 +1,4 @@
-
+{% include header.html %}
 
 # The offered courses for Masters in Applied Family Science are:
 
