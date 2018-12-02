@@ -9,8 +9,7 @@
 |[AFM 6640](afm6640.md) | Dr. Raman | $1700 |Families and Crisis
 |[AFM 6650](afm6650.md) | Dr. Singh | $1700 |Family Resource Management
 
-
-                                                                                         #[Home](Readme.md)
+# [Home](Readme.md)
 
 ---
 
