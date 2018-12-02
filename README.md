@@ -1,4 +1,7 @@
 
+...
+{% include Header.html %}
+...
 
 # Welcome to Wilmington University
 
