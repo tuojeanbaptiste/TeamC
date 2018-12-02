@@ -10,7 +10,7 @@
 |[AFM 6650](afm6650.md) | Dr. Singh | $1700 |Family Resource Management
 
 
-                                                                                         [Home](Readme.md)
+                                                                                         #[Home](Readme.md)
 
 ---
 
