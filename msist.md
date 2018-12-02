@@ -11,6 +11,8 @@
 |IST 7060 | Mr. Ronald| $1575| Project and Change Management|
 |IST 7100 | Mr. Jeffery| $1575 |IT Policy and Strategy|
 
+----
+[Home](https://tuojeanbaptiste.github.io/TeamC/)
 
 
 ---
