@@ -28,7 +28,7 @@ Please select one of the degree program:
 # [Masters in Information Systems Technologies (MS-IST)](msist.md)
 
 ---
-{ % include footer.html % }
+{% include footer.html %}
 ---
 
 # Contact & Visit: 
