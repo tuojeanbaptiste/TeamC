@@ -6,6 +6,8 @@
 
 ## Team C Building Wilmington University Web Site as a project work in Markdown Language.
 
+{% include left_nav.html %}
+
 At Wilmington University, students have the opportunity to pursue a career and become a leader. It’s not just about meeting your potential, it’s about exceeding it.
 
 Wilmington University is a private, non-sectarian university which offers both undergraduate and graduate degree programs in a wide range of career areas. The University began with a charter class of 194 students in 1968 and now enrolls a diverse student body numbering more than 18,000 annually.
