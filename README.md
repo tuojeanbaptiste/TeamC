@@ -29,6 +29,17 @@ Wilmington University is a 501(c)(3) organization.
 - **[Masters in Information Systems Technologies (MS-IST)](msist.md)**
 
 ---
-{% include footer.html %}
+[//]: <> ({% include footer.html %})
 
 ---
+---
+
+# Contact & Visit: 
+Wilmington University, 
+320 N. 
+DuPont Hwy, 
+New Castle, DE 19720 
+
+<div>
+   &copy; 2018 Wilmington University
+</div>
