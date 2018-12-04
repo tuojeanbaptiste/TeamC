@@ -20,6 +20,7 @@ Wilmington University generally serves commuter students and does not provide st
 Data compiled by the Office of Institutional Research
 
 Wilmington University is a 501(c)(3) organization.
+---
 
 ## Please select one of the degree program:
 
