@@ -1,4 +1,7 @@
-{% include left_nav.html %}
+-----
+Title: Wilmington University
+include: left_nav.html
+-----
 
 # Welcome to Wilmington University
 
