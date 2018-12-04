@@ -1,9 +1,8 @@
-{% include header.html %}
+#{% include header.html %}
 
 # Welcome to Wilmington University
 
 ![Image](Images/wilmu-logo.png "Welcome to Wilmington University")
-
 
 ## Team C Building Wilmington University Web Site as a project work in Markdown Language.
 
