@@ -27,14 +27,11 @@
       <div id="main" role="main">
         <div class="download-bar">
         <div class="inner">
-        <ul class="nav">
-        <li><a href="login.html">myWilmU</a></li>
-        <li><a href="lesson-1.html">Library</a></li>
-        <li><a href="Staff.html">Faculty & Staff</a></li>
-        <li><a href="Safety.html">Safety</a></li>
-        <li><a href="Contact.html">Contact Us</a></li>
-        <li><a href="Apply.html">Apply Now</a></li>
-      </ul>
+          {% if site.show_downloads %}
+          <a href="{{ site.github.tar_url }}" class="download-button tar"><span>Download</span></a>
+          <a href="{{ site.github.zip_url }}" class="download-button zip"><span>Download</span></a>
+          {% endif %}
+          <a href="{{ site.github.repository_url }}" class="code">View {{ site.title | default: site.github.repository_name }} on GitHub</a>
        </div>
         <span class="blc"></span><span class="trc"></span>
         </div>
