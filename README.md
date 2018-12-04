@@ -29,12 +29,7 @@ Wilmington University is a 501(c)(3) organization.
 - **[Masters in Information Systems Technologies (MS-IST)](msist.md)**
 
 ---
-
- [//]: <> ({% include footer.html %})
  [//]: # ({% include footer.html %})
- 
----
----
 
 # Contact & Visit: 
 Wilmington University, 
