@@ -1,3 +1,4 @@
+{% include left_nav.html %}
 
 # Welcome to Wilmington University
 
