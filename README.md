@@ -21,7 +21,7 @@ Data compiled by the Office of Institutional Research
 
 Wilmington University is a 501(c)(3) organization.
 
-# Please select one of the degree program:
+## Please select one of the degree program:
 
 - **[MS in Applied Family Science Degree](msafs.md)**
 - **[Masters in Applied Technology in Education](msate.md)**
