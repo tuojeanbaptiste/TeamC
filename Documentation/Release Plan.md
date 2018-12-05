@@ -12,6 +12,7 @@
 |2	|Admnistrator - Assign Professor - Against course 	|Student Registration System	|11/16/18|	11/22/18|
 |2	|Administrator - Add Cost for Course Based on 	|Student Registration System|	11/16/18|	11/22/18|
 |2	|Administrator - Should be able to register an existing student	|Student Registration System|	11/16/18|	11/22/18|
-|3  |Student - Notification for required course |Student Registration System| 11/23/18| 11/29/18|
-
+|3  |Student - Notification for required course |Student Registration System| 11/23/18|  11/29/18|
+|3  |Student - Payment reminder |Student Registration System| 11/23/18| 11/29/18|
+|3  |Student - Payment plans |Student Registration System| 11/23/18| 11/29/18|
 
