@@ -1,5 +1,5 @@
 
-# Sorry page is development stage
+# Sorry page is in development stage
 
 
 ----
