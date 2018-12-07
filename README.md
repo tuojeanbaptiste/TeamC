@@ -1,5 +1,5 @@
 
-{% include left_nav.html %}
+{% include header.html %}
 
 # Welcome to Wilmington University
 
