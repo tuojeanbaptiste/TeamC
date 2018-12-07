@@ -7,7 +7,7 @@ theme: jekyll-theme-cayman
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 url: "https://tuojeanbaptiste.github.io"
-baseurl: ""
+baseurl: "/TeamC"
 
 # If you are building a GitHub project page then use these settings:
 #url: "https://tuojeanbaptiste.github.io/"
@@ -34,7 +34,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/images/wilmu_logo.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
