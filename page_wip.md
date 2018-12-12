@@ -1,5 +1,10 @@
+# Welcome to Wilmington University
 
-![Image](Images/under-construction.png)
+![Image](Images/wilmu-logo.png "Welcome to Wilmington University")
+
+---
+
+![Image](Images/under-construction.png) { width: 200px; }
 
 
 [Home](https://tuojeanbaptiste.github.io/TeamC/)
