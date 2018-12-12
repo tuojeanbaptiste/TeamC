@@ -10,16 +10,11 @@
 |[MED 7704](med7704.md) | Dr. Kemp| $1500 | Education for Equity and Social Justice
 |[MED 7807](med7807.md) | Dr. Phil | $1500 |Creativity and Critical Thinking 
 
+
 [Home](https://tuojeanbaptiste.github.io/TeamC/)
 
 ---
 
-# Contact & Visit: 
-Wilmington University, 
-320 N. 
-DuPont Hwy, 
-New Castle, DE 19720 
+{% include footer.html %}
 
-<div>
-   &copy; 2018 Wilmington University
-</div>
+---
