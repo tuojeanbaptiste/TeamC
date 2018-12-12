@@ -4,7 +4,7 @@
 
 ---
 
-![Image](Images/under-construction.png) {:height="24px" width="48px"}
+![Image](Images/under-construction.png)
 
 
 [Home](https://tuojeanbaptiste.github.io/TeamC/)
