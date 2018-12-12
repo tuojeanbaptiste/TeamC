@@ -1,5 +1,5 @@
 
-# Sorry, the policies are still in/at the development stage. 
+![Image](Images/under-construction)
 
 
 [Home](https://tuojeanbaptiste.github.io/TeamC/)
