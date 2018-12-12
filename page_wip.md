@@ -4,7 +4,7 @@
 
 ---
 
-![Image](Images/under-construction.png)
+![Image](Images/underconstruction.png)
 
 
 [Home](https://tuojeanbaptiste.github.io/TeamC/)
