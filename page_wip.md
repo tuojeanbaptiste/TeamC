@@ -1,5 +1,6 @@
 
-# Sorry page is in development stage
+# Sorry, the policies are still in/at the development stage. 
+
 
 [Home](https://tuojeanbaptiste.github.io/TeamC/)
 
