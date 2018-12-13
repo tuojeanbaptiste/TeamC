@@ -2,7 +2,7 @@
 
 # Welcome to Wilmington University
 
-[![Image](Images/wilmu-logo.png "Welcome to Wilmington University")](https://www.youtube.com/watch?v=2YAptB1_6uQ "Click here to view video of Wilmington University")
+[![Image](Images/wilmu-logo.png "Click here to view video of Wilmington University")](https://www.youtube.com/watch?v=2YAptB1_6uQ "Click here to view video of Wilmington University")
 
 ## Team C Building Wilmington University Web Site as a project work in Markdown Language.
 
