@@ -7,6 +7,7 @@
 * Show Site under construction for other menu links in Header Menu 
 * Show Contact us Info in Header Menu
 * Link youtube video to University Image in Home Page.
+* Replace all footer related information by referring the footer.html 
 
 ## RoadBlock
 
