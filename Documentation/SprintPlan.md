@@ -10,7 +10,8 @@
 
 ## RoadBlock
 
-* We are able to show 2nd level of menu in MarkDown language
+* We are not able to show 2nd level of menu in MarkDown language
+* Not able to open youtube into browsers new tab window 
 
 ## Next Week
 
