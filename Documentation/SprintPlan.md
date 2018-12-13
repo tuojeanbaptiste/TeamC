@@ -3,7 +3,7 @@
 
 * Show Header menu
 * Create home pagelink in all pages
-* Back to program page for courses
+* Display 2nd Level menu 
 * Show Site under construction for other menu links in Header Menu 
 * Show Contact us Info in Header Menu
 * Link youtube video to University Image in Home Page.
