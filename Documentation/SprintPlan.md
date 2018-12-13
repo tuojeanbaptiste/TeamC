@@ -1,11 +1,11 @@
 
 ## Week 7 Sprint Plan  ( 12/7/2018 - 12/13/2018)
 
-* Header
-* Create home pagelink
-* Back to program page
-* Header Menu - Other Menu link
-* Header Menu - Contact US
+* Show Header menu
+* Create home pagelink in all pages
+* Back to program page for courses
+* Show Site under construction for other menu links in Header Menu 
+* Show Contact us Info in Header Menu
 * Link youtube video to University Image in Home Page.
 
 ## RoadBlock
