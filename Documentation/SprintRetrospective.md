@@ -1,3 +1,22 @@
+# Sprint Retrospective Dec/06/2018
+
+#### Thursday // Prior to planning next sprint
+
+1. What went well?
+2. What could be improved?
+3. What will we commit to improve in the next Sprint?
+
+**What went well**
+- Displying Footer
+- Providing link to Program page from course registration 
+- Providing link to Home page from course listing page
+
+**What could be improved?**
+- Most of the new requirements need Technical skills in HTML / CSS / Javascript
+- Some team members are not technical
+
+**What will we commit to improve in the next Sprint**
+- reduce the learning curve on markdown language
 
 # Sprint Retrospective Nov/29/2018
 
